@@ -52,5 +52,5 @@ This is the GitHub account that I use for daily studies and recording.
 </p>
 
 ### 📠 Contact me: 
-&nbsp;&nbsp;📬 Email: [fengrui_liu2001@hust.edu.cn](mailto:fengrui_liu2001@hust.edu.cn)<br/>
+&nbsp;&nbsp;📬 Email: [fengrui_liu@hust.edu.cn](mailto:fengrui_liu2001@hust.edu.cn)<br/>
 
