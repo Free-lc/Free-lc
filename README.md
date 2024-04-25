@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi!🏄Welcome to my space! I am Zhaorui Ding from China
+### Hi!🏄Welcome to my space! I am Fengrui Liu from China
 This is the GitHub account that I use for daily studies and recording.
 ### 👔 I am currently: 
 &nbsp;&nbsp;&nbsp;&nbsp; a graduate in the School of Computer Science, Huazhong University of Science and Technology (HUST)
