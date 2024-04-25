@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="https://cdn.pixabay.com/photo/2016/05/26/13/51/dog-1417208_1280.png"  />
+ <img width="200px" src="https://picx.zhimg.com/80/v2-e799debafa72fe2c6000738b1eb8fe7e_1440w.webp?source=2c26e567"  />
  <h1 align="center">Fengrui Liu (Fray)</h2>
  
 </p>
